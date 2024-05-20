@@ -25,6 +25,8 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This project has approach to schema that is very useful because has set all that you need for start, althoug is build with nest, works also with express without problems.
+I will add features for more performance! Happy coding 
 
 ## Installation
 
